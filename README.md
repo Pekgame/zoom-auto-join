@@ -1,6 +1,7 @@
 # Zoom Auto Join
 Simple Zoom Auto Join Application by Python
 
+* [Install](https://zoom.us/client/latest/ZoomInstaller.exe) zoom
 * [Install](https://github.com/Pekgame/zoom-auto-join/archive/refs/heads/main.zip) and Extract this repo.
 * Just run `installer.bat` file to install.
 * Run `autos.py` file to use the application!
